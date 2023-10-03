@@ -12,7 +12,7 @@ Raw **spatial transcriptomics** data can be obtained from the paper and/or the S
 ## Citation
 If you use code or data in this project, please cite:
 
-- Siyu, J. 2023. "Spatial multiomics analysis reveals a subpopulation of fibroblasts associated with immunosuppression and cancer stemness in human liver cancer". (revision)
+- Siyu, J. 2023. "Spatial multiomics analysis reveals a subpopulation of fibroblasts associated with immunosuppression and cancer stemness in human liver cancer". 
 
 ## Maintainers
 [@jessiya](https://github.com/jessiya825)
